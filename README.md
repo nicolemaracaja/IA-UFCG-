@@ -1,0 +1,1 @@
+O **Sinton.IA** é um assistente inteligente de playlists que combina análise de áudio, letras e técnicas de machine learning para recomendar músicas de forma personalizada. Ele foi desenvolvido para entender o humor desejado pelo usuário e, a partir disso, gerar playlists alinhadas ao seu estado emocional, tornando a experiência musical mais envolvente e interativa.
